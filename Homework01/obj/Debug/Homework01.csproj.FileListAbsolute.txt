@@ -1,0 +1,6 @@
+C:\CoderCamps - Main\Projects\Day 11 Projects\Homework01\Homework01\bin\Debug\Homework01.exe.config
+C:\CoderCamps - Main\Projects\Day 11 Projects\Homework01\Homework01\bin\Debug\Homework01.exe
+C:\CoderCamps - Main\Projects\Day 11 Projects\Homework01\Homework01\bin\Debug\Homework01.pdb
+C:\CoderCamps - Main\Projects\Day 11 Projects\Homework01\Homework01\obj\Debug\Homework01.csprojResolveAssemblyReference.cache
+C:\CoderCamps - Main\Projects\Day 11 Projects\Homework01\Homework01\obj\Debug\Homework01.exe
+C:\CoderCamps - Main\Projects\Day 11 Projects\Homework01\Homework01\obj\Debug\Homework01.pdb
